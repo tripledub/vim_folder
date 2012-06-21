@@ -1,0 +1,9 @@
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git://github.com/kien/ctrlp.vim.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = git://github.com/mileszs/ack.vim.git
