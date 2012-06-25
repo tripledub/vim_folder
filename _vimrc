@@ -84,6 +84,11 @@ set lcs=trail:~
 
 "Map Ctrl-`to Toggle Nerdtree
 map <C-l> :NERDTreeToggle<CR>
+" Autoload NERDTree
+autocmd vimenter * if !argc() | NERDTree | endif
+
+"Close vim if NERDTree is only other open window
+"autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 
 map <TAB> ==
 
