@@ -1,4 +1,7 @@
 set nocompatible "no plain vi compatability
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+call pathogen#infect()
 syntax on
 set ts=2
 set ai
