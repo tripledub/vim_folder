@@ -99,6 +99,16 @@ set wildignore+=*/.git/*,*/.hg/*,*/.svn/*  " Linux/MacOSX
 
 "Platform .ui files
 au BufRead,BufNewFile *.ui set filetype=ruby
+au BufRead,BufNewFile *.ru setfiletype ruby
 
 "ctags for gems.tags
 set tags+=gems.tags
+
+" Temporarily expand window height
+"if bufwinnr(1)
+"  map - <C-W>=
+"  map = <C-W>_
+"endif
+
+" Zen Coding Stuff
+let g:user_zen_leader_key = '<c-k>'

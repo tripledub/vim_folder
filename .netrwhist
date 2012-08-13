@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/stewart.campbell/code/sop/sop_settings/lib/sop_settings'
-let g:netrw_dirhist_2='/Users/stewart.campbell/code/sop/sop_settings/lib/sop_settings/subscription_choice_handlers'
-let g:netrw_dirhist_3='/Users/stewart.campbell/.ssh'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/stewart.campbell/.dotfiles/bash/completion_scripts'
+let g:netrw_dirhist_2='/Users/stewart.campbell/code/mysageone/accountants'
+let g:netrw_dirhist_3='/Users/stewart.campbell/.dotfiles'
+let g:netrw_dirhist_4='/Users/stewart.campbell/code/sage_one'
+let g:netrw_dirhist_5='/Users/stewart.campbell/code/mysageone/simulator'
