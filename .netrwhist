@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/stewart.campbell/.dotfiles/bash/completion_scripts'
 let g:netrw_dirhist_2='/Users/stewart.campbell/code/mysageone/accountants'
 let g:netrw_dirhist_3='/Users/stewart.campbell/.dotfiles'
 let g:netrw_dirhist_4='/Users/stewart.campbell/code/sage_one'
 let g:netrw_dirhist_5='/Users/stewart.campbell/code/mysageone/simulator'
+let g:netrw_dirhist_6='/Users/stewart.campbell/.dotfiles'
+let g:netrw_dirhist_7='/Users/stewart.campbell/.vim'
+let g:netrw_dirhist_8='/Volumes/Macintosh HD 2/code'
+let g:netrw_dirhist_9='/Volumes/Macintosh HD 2/code/mysageone/simulator'

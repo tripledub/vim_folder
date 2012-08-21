@@ -55,7 +55,7 @@ if has('gui') == 0
 else
   set t_Co=256
   "colorscheme candycode  "quite like this theme
-  colorscheme inkpot "nice theme too
+  colorscheme desert "nice theme too
 endif
 
 "Nice Cursor Line
