@@ -22,7 +22,7 @@ set viminfo^=!
 
 "Stuff from Steve's
 set cursorline
-set title
+set notitle
 set ruler
 set ls=2
 
