@@ -1,6 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Volumes/Macintosh HD 2/code/mysageone/mysageone/config'
-let g:netrw_dirhist_2='/Volumes/Macintosh HD 2/code/fuji/fuji_host/config'
-let g:netrw_dirhist_3='/Volumes/Macintosh HD 2/code/fuji'
-let g:netrw_dirhist_4='/Volumes/Macintosh HD 2/code/sop/sop_dev/lib/rspec_extensions'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Volumes/Macintosh HD 2/code/mysageone_uk/host_app/db/migrate'
+let g:netrw_dirhist_2='/Users/stewart.campbell/.vim/colors'
