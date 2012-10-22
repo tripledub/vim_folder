@@ -1,4 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Volumes/Macintosh HD 2/code/mysageone_uk/host_app/db/migrate'
-let g:netrw_dirhist_2='/Users/stewart.campbell/.vim/colors'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/stewart.campbell/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sageid-ruby-0.5.2'
