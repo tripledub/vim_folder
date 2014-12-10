@@ -51,11 +51,11 @@ set scrolloff=10
 if has('gui') == 0
   "avoiding annoying CSApprox warning message
   let g:CSApprox_verbose_level = 0
-  colorscheme desert
+  colorscheme vibrantink
 else
   set t_Co=256
   "colorscheme candycode  "quite like this theme
-  colorscheme desert "nice theme too
+  colorscheme fine_blue "nice theme too
 endif
 
 "Nice Cursor Line
